@@ -1,0 +1,17 @@
+TUGAS NOTASI DESKRIPTIF ALGORITMA
+Nama:Lalu Sirajati 
+NIM : 24241149
+
+Persoalan :
+Buatlah notasi kalimat deskriptif algoritma
+Jawaban :
+Kalimat Deskriptif
+Notasi algoritma dengan menggunakan kalimat deskriptif disebut juga notasi alami. Notasi deskriptif ini disarankan untuk algoritma yang pendek karena apabila untuk algoritma yang panjang notasi deskriptif kurang efektif. Secara garis besar notasi deskriptif tersusun atas tiga bagian utama, yaitu :
+Bagian Judul, merupakan bagian yang terdiri atas nama algoritma dan penjelasan atau spesifikasi algoritma tersebut.
+Bagian Deklarasi, merupakan bagian untuk mendefinisikan semua nama yang digunakan pada algoritma dapat berupa variabel, konstanta, tipe ataupun fungsi
+Bagian Deskripsi, merupakan bagian inti pada struktur algoritma yang berisi uraian langkah-langkah penyelesaian masalah.
+Contoh penulisan algoritma dengan notasi deskriptif.
+Algoritma Luas_Lingkaran
+{Menghitung luas lingkaran untuk ukuran jari-jari tertentu. Algoritma menerima masukan jari-jari lingkaran, menghitung luasnya, lalu mencetak luasnya ke piranti keluaran}
+Deklarasi :
+Jari_jari = real {tipe data bilangan pecahan}
